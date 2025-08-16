@@ -8,4 +8,5 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ebolblga&repo=Grad-Work-Alpha&theme=github_dark&hide_border=true&disable_animations=true)](https://github.com/ebolblga/Grad-Work-Alpha)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ebolblga&repo=Yo&theme=github_dark&hide_border=true&disable_animations=true)](https://github.com/ebolblga/Yo)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ebolblga&repo=Obj-to-PovRay-Test&theme=github_dark&hide_border=true&disable_animations=true)](https://github.com/ebolblga/Obj-to-PovRay-Test)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ebolblga&repo=robo-warehouse&theme=github_dark&hide_border=true&disable_animations=true)](https://github.com/ebolblga/robo-warehouse)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ebolblga&repo=Ahaha-hehehe&theme=github_dark&hide_border=true&disable_animations=true)](https://github.com/ebolblga/Ahaha-hehehe)
