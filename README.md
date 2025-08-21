@@ -1,8 +1,8 @@
 ### Это всё большая куча говна
-[![ebolblga's GitHub stats](https://github-readme-stats.vercel.app/api?username=ebolblga&show_icons=true&theme=github_dark&hide_border=true&disable_animations=true?count_private=true#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-[![ebolblga's GitHub stats](https://github-readme-stats.vercel.app/api?username=ebolblga&show_icons=true&theme=github_light&hide_border=true&disable_animations=true?count_private=true#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
-[![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ebolblga&layout=compact&show_icons=true&theme=github_dark&hide_border=true&disable_animations=true?count_private=true&langs_count=16#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-[![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ebolblga&layout=compact&show_icons=true&theme=github_light&hide_border=true&disable_animations=true?count_private=true&langs_count=16#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+[![ebolblga's GitHub stats](https://github-readme-stats.vercel.app/api?username=ebolblga&show_icons=true&theme=github_dark&hide_border=true&disable_animations=true?count_private=true&bg_color=00000000#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![ebolblga's GitHub stats](https://github-readme-stats.vercel.app/api?username=ebolblga&show_icons=true&theme=github_light&hide_border=true&disable_animations=true?count_private=true&bg_color=00000000#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+[![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ebolblga&layout=compact&show_icons=true&theme=github_dark&hide_border=true&disable_animations=true?count_private=true&langs_count=16&bg_color=00000000#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ebolblga&layout=compact&show_icons=true&theme=github_light&hide_border=true&disable_animations=true?count_private=true&langs_count=16&bg_color=00000000#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 ### Extra pins:
 *cooler projects in the actual pins down below*  
 <!-- 1D-Minesweeper -->
