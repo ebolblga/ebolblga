@@ -37,6 +37,14 @@
     <img alt="Yo" src="https://github-readme-stats.vercel.app/api/pin/?username=ebolblga&repo=Yo&theme=github_light&hide_border=true&disable_animations=true&bg_color=00000000" />
   </picture>
 </a>
+<!-- Segmented Display Editor -->
+<a href="https://github.com/ebolblga/segmented-display-editor">
+  <picture>
+    <source media="(prefers-color-scheme: dark)"
+      srcset="https://github-readme-stats.vercel.app/api/pin/?username=ebolblga&repo=segmented-display-editor&theme=github_dark&hide_border=true&disable_animations=true&bg_color=00000000" />
+    <img alt="segmented-display-editor" src="https://github-readme-stats.vercel.app/api/pin/?username=ebolblga&repo=segmented-display-editor&theme=github_light&hide_border=true&disable_animations=true&bg_color=00000000" />
+  </picture>
+</a>
 <!-- Obj-to-PovRay-Test -->
 <a href="https://github.com/ebolblga/Obj-to-PovRay-Test">
   <picture>
